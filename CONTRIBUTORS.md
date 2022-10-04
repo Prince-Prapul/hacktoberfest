@@ -591,3 +591,9 @@
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
+#### Name: [Prapul Muttineni](https://github.com/Prince-Prapul)
+
+-   Place: Vijayawada, AP, India
+-   Bio: Front End Developer & Cross Platform developer
+-   GitHub: [Prince-Prapul](https://github.com/Prince-Prapul)
